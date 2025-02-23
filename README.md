@@ -39,11 +39,5 @@ This project predicts the **resale price** of a used car based on various parame
 - **Scikit-Learn** (Machine Learning Model)  
 - **BeautifulSoup/Scrapy** (Web Scraping)  
 
----
 
-## 🔹 How to Run This Project?  
-
-1️⃣ Clone this repository:  
-```bash
-git clone https://github.com/NunnaPooja/Car_Price_Estimator.git
 
